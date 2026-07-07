@@ -1,6 +1,6 @@
-# 📊 Customer Churn Prediction using Machine Learning
+#  Customer Churn Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn prediction is one of the most important business applications of Machine Learning. This project predicts whether a customer is likely to leave (churn) or continue using the company's services based on customer demographic information, account details, and service usage.
 
@@ -8,7 +8,7 @@ The model helps businesses identify customers who are at high risk of leaving so
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Customer acquisition is significantly more expensive than customer retention. Therefore, predicting customer churn allows businesses to:
 
@@ -21,7 +21,7 @@ This project builds a machine learning classification model to predict customer 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * **Dataset:** Telco Customer Churn Dataset
 * **Total Records:** 7,043 Customers
@@ -49,7 +49,7 @@ Target:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Google Colab / Jupyter Notebook
@@ -61,7 +61,7 @@ Target:
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1. Data Collection
 
@@ -110,7 +110,7 @@ The final trained model predicts whether a customer is likely to churn based on 
 
 ---
 
-## 📈 Results
+##  Results
 
 The trained model achieved high prediction performance after preprocessing and feature engineering.
 
@@ -133,7 +133,7 @@ F1 Score       : 80%
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Customer-Churn-Prediction/
@@ -146,7 +146,7 @@ Customer-Churn-Prediction/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Clone Repository
 
@@ -185,7 +185,7 @@ The project includes various visualizations such as:
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Hyperparameter Tuning
 * XGBoost Implementation
@@ -211,7 +211,7 @@ Through this project, I learned:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Yasaswini Pilla**
 
@@ -223,4 +223,4 @@ GitHub: https://github.com/YasaswiniPilla
 
 ---
 
-## ⭐ If you found this project helpful, don't forget to Star this repository!
+##  If you found this project helpful, don't forget to Star this repository!
